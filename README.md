@@ -1,6 +1,14 @@
-# client_mobile
+## Apk
+https://github.com/Generalchrist/HouseRental-Flutter/blob/main/app.apk
 
-A new Flutter project.
+##  Video
+https://youtu.be/kZvpL2-OQiA
+
+## Slides
+https://github.com/Generalchrist/HouseRental-Flutter/blob/main/HouseRental%20Slides.pdf
+
+## Backend
+https://github.com/Generalchrist/HouseRental-Spring
 
 ## Getting Started
 
@@ -15,14 +23,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Apk
-https://github.com/Generalchrist/HouseRental-Flutter/blob/main/app.apk
-
-##  Video
-https://youtu.be/kZvpL2-OQiA
-
-## Slides
-https://github.com/Generalchrist/HouseRental-Flutter/blob/main/HouseRental%20Slides.pdf
-
-## Backend
-https://github.com/Generalchrist/HouseRental-Spring
